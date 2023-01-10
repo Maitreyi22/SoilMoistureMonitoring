@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "830413275346",
+    "firebase_url": "https://iotsensors-febd0-default-rtdb.firebaseio.com",
+    "project_id": "iotsensors-febd0",
+    "storage_bucket": "iotsensors-febd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830413275346:android:d101d85d7a2e49efd36d0b",
+        "android_client_info": {
+          "package_name": "com.example.soilmoisture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830413275346-54t4a1ta7r15ntnd4rvc7o9h7okpeb79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soilmoisture",
+            "certificate_hash": "73f20f7c48b8f2370266af12728b9646f64747e4"
+          }
+        },
+        {
+          "client_id": "830413275346-i4ds29i8ecqr2m39o3lmhe9i5g9g9ba5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soilmoisture",
+            "certificate_hash": "defec4ef3b46b8e4dd9e7bc329084e56b6651af5"
+          }
+        },
+        {
+          "client_id": "830413275346-5v5o1uqnc5hu6i5f9fjhrb5paenb8pjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALFxfcyVbf44q_8L9BUbMHZBhsss-Gwwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830413275346-5v5o1uqnc5hu6i5f9fjhrb5paenb8pjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
